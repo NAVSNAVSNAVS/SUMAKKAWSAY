@@ -1,0 +1,274 @@
+.hero17-header78 {
+  gap: var(--dl-layout-space-threeunits);
+  width: 100%;
+  height: auto;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  flex-shrink: 0;
+  flex-direction: column;
+  background-color: rgba(239, 236, 226, 0.61);
+}
+ 
+.hero17-column {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 804px;
+  height: 361px;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  padding-bottom: var(--dl-layout-space-halfunit);
+}
+ 
+.hero17-content1 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.hero17-text1 {
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+ 
+.hero17-text2 {
+  width: auto;
+  height: auto;
+  text-align: center;
+}
+ 
+.hero17-container1 {
+  flex: 0 0 auto;
+  width: auto;
+  height: auto;
+  display: flex;
+  align-items: flex-start;
+  justify-content: center;
+}
+ 
+.hero17-actions {
+  gap: var(--dl-layout-space-unit);
+  height: 84px;
+  display: flex;
+  align-items: flex-end;
+  padding-top: var(--dl-layout-space-unit);
+  flex-direction: row;
+}
+ 
+.hero17-content2 {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 100%;
+  display: flex;
+  position: relative;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.hero17-row-container1 {
+  width: 100%;
+}
+ 
+.hero17-placeholder-image10 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-image {
+  width: 308px;
+  height: 389px;
+  object-fit: cover;
+}
+ 
+.hero17-placeholder-image11 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image12 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image13 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image14 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image15 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image16 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image17 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image18 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image19 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-row-container2 {
+  width: 100%;
+}
+ 
+.hero17-placeholder-image20 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image21 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image22 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image23 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image24 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image25 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image26 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image27 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image28 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image29 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image30 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-placeholder-image31 {
+  width: 400px;
+  height: 400px;
+}
+ 
+.hero17-text3 {
+  text-align: center;
+}
+ 
+.hero17-container3 {
+  display: contents;
+}
+ 
+.hero17-text4 {
+  display: inline-block;
+}
+ 
+.hero17-text5 {
+  display: inline-block;
+}
+ 
+.hero17-text6 {
+  display: inline-block;
+  font-size: 20px;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.hero17-text7 {
+  display: inline-block;
+  font-size: 20px;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.hero17-text8 {
+  display: inline-block;
+  font-size: 55px;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 5px;
+}
+ 
+.hero17root-class-name {
+  fill: var(--dl-color-theme-neutral-dark);
+  color: var(--dl-color-theme-neutral-dark);
+}
+ 
+@media(max-width: 767px) {
+  .hero17-content2 {
+    width: 100%;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .hero17-column {
+    width: 100%;
+    height: 423px;
+    margin-right: 0px;
+  }
+  .hero17-actions {
+    width: 100%;
+    height: 137px;
+    flex-direction: column;
+    padding-bottom: 0px;
+    justify-content: flex-end;
+  }
+  .hero17-button1 {
+    width: 100%;
+  }
+  .hero17-button2 {
+    width: 100%;
+  }
+  .hero17-content2 {
+    width: 100%;
+  }
+  .hero17-text3 {
+    width: 357px;
+  }
+  .hero17-text6 {
+    font-size: 20px;
+    font-family: CaviarDreams;
+  }
+  .hero17-text7 {
+    font-size: 20px;
+    font-family: CaviarDreams;
+  }
+}

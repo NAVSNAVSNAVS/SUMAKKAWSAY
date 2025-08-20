@@ -1,0 +1,707 @@
+.home-container {
+  width: 100%;
+  display: flex;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.home-text100 {
+  display: inline-block;
+}
+ 
+.home-text101 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text102 {
+  display: inline-block;
+}
+ 
+.home-text103 {
+  display: inline-block;
+}
+ 
+.home-text104 {
+  display: inline-block;
+}
+ 
+.home-text105 {
+  display: inline-block;
+}
+ 
+.home-text106 {
+  display: inline-block;
+}
+ 
+.home-text107 {
+  display: inline-block;
+}
+ 
+.home-text108 {
+  display: inline-block;
+}
+ 
+.home-text109 {
+  display: inline-block;
+}
+ 
+.home-text110 {
+  display: inline-block;
+}
+ 
+.home-text111 {
+  display: inline-block;
+}
+ 
+.home-text112 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text113 {
+  display: inline-block;
+}
+ 
+.home-text114 {
+  display: inline-block;
+}
+ 
+.home-text115 {
+  display: inline-block;
+}
+ 
+.home-text116 {
+  display: inline-block;
+}
+ 
+.home-text117 {
+  display: inline-block;
+}
+ 
+.home-text118 {
+  display: inline-block;
+}
+ 
+.home-text119 {
+  display: inline-block;
+  font-size: 20px;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text120 {
+  display: inline-block;
+  font-size: 55px;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 5px;
+}
+ 
+.home-text121 {
+  display: inline-block;
+  font-size: 20px;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text122 {
+  display: inline-block;
+}
+ 
+.home-text123 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text124 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text125 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text126 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text127 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text128 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text129 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text130 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text131 {
+  display: inline-block;
+}
+ 
+.home-text132 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text133 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text134 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text135 {
+  display: inline-block;
+}
+ 
+.home-text136 {
+  display: inline-block;
+}
+ 
+.home-text137 {
+  display: inline-block;
+}
+ 
+.home-text138 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text139 {
+  display: inline-block;
+}
+ 
+.home-text140 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text141 {
+  display: inline-block;
+}
+ 
+.home-text142 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text143 {
+  display: inline-block;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 2px;
+}
+ 
+.home-text144 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+  line-height: 0.2;
+}
+ 
+.home-text145 {
+  display: inline-block;
+  font-size: 30px;
+  font-family: "CaviarDreams";
+  line-height: 2;
+}
+ 
+.home-text146 {
+  display: inline-block;
+  font-size: 30px;
+  font-family: "CaviarDreams-Bold";
+  line-height: 2;
+}
+ 
+.home-text147 {
+  display: inline-block;
+  font-size: 30px;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text148 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text149 {
+  display: inline-block;
+}
+ 
+.home-text150 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+  font-weight: 400;
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+ 
+.home-text151 {
+  display: inline-block;
+}
+ 
+.home-text152 {
+  display: inline-block;
+}
+ 
+.home-text153 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+  line-height: 1.15;
+}
+ 
+.home-text154 {
+  display: inline-block;
+}
+ 
+.home-text155 {
+  display: inline-block;
+}
+ 
+.home-text156 {
+  display: inline-block;
+}
+ 
+.home-text157 {
+  display: inline-block;
+}
+ 
+.home-text158 {
+  display: inline-block;
+}
+ 
+.home-text159 {
+  display: inline-block;
+}
+ 
+.home-text160 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+  line-height: 1.15;
+  text-transform: none;
+  text-decoration: none;
+}
+ 
+.home-text161 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text162 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text163 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text164 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text165 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text166 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text167 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text168 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text169 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text170 {
+  display: inline-block;
+}
+ 
+.home-text171 {
+  display: inline-block;
+}
+ 
+.home-text172 {
+  display: inline-block;
+}
+ 
+.home-text173 {
+  display: inline-block;
+}
+ 
+.home-text174 {
+  display: inline-block;
+  font-size: 16px;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text175 {
+  display: inline-block;
+}
+ 
+.home-text176 {
+  display: inline-block;
+}
+ 
+.home-text177 {
+  display: inline-block;
+}
+ 
+.home-text178 {
+  display: inline-block;
+}
+ 
+.home-text179 {
+  display: inline-block;
+}
+ 
+.home-text180 {
+  display: inline-block;
+}
+ 
+.home-text181 {
+  display: inline-block;
+}
+ 
+.home-text182 {
+  display: inline-block;
+}
+ 
+.home-text183 {
+  display: inline-block;
+}
+ 
+.home-text184 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text185 {
+  display: inline-block;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 2px;
+}
+ 
+.home-text186 {
+  display: inline-block;
+  font-size: 25px;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text187 {
+  display: inline-block;
+  font-size: 25px;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text188 {
+  display: inline-block;
+  font-size: 25px;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 2px;
+}
+ 
+.home-text189 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text190 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text191 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text192 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text193 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text194 {
+  display: inline-block;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 3px;
+}
+ 
+.home-text195 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text196 {
+  display: inline-block;
+  font-family: "CaviarDreams-Bold";
+}
+ 
+.home-text197 {
+  display: inline-block;
+}
+ 
+.home-text198 {
+  display: inline-block;
+}
+ 
+.home-text199 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text200 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text201 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text202 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+.home-text203 {
+  display: inline-block;
+}
+ 
+.home-text204 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text205 {
+  display: inline-block;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 3px;
+}
+ 
+.home-text206 {
+  display: inline-block;
+  font-size: 20px;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 1px;
+}
+ 
+.home-text207 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text208 {
+  display: inline-block;
+  font-family: "CaviarDreams-Italic";
+}
+ 
+.home-text209 {
+  display: inline-block;
+}
+ 
+.home-text210 {
+  display: inline-block;
+}
+ 
+.home-text211 {
+  display: inline-block;
+}
+ 
+.home-text212 {
+  display: inline-block;
+}
+ 
+.home-text213 {
+  display: inline-block;
+}
+ 
+.home-text214 {
+  display: inline-block;
+}
+ 
+.home-text215 {
+  display: inline-block;
+}
+ 
+.home-text216 {
+  display: inline-block;
+}
+ 
+.home-text217 {
+  display: inline-block;
+}
+ 
+.home-text218 {
+  display: inline-block;
+}
+ 
+.home-text219 {
+  display: inline-block;
+}
+ 
+.home-text220 {
+  display: inline-block;
+}
+ 
+.home-text221 {
+  display: inline-block;
+}
+ 
+.home-text222 {
+  display: inline-block;
+}
+ 
+.home-text223 {
+  display: inline-block;
+}
+ 
+.home-text224 {
+  display: inline-block;
+}
+ 
+.home-text225 {
+  display: inline-block;
+}
+ 
+.home-text226 {
+  display: inline-block;
+}
+ 
+.home-text227 {
+  display: inline-block;
+}
+ 
+.home-text228 {
+  display: inline-block;
+}
+ 
+.home-text229 {
+  display: inline-block;
+}
+ 
+.home-text230 {
+  display: inline-block;
+}
+ 
+.home-text231 {
+  display: inline-block;
+}
+ 
+.home-text232 {
+  display: inline-block;
+}
+ 
+.home-text233 {
+  display: inline-block;
+}
+ 
+.home-text234 {
+  display: inline-block;
+}
+ 
+@media(max-width: 479px) {
+  .home-text119 {
+    font-size: 20px;
+    font-family: CaviarDreams;
+  }
+  .home-text121 {
+    font-size: 20px;
+    font-family: CaviarDreams;
+  }
+  .home-text140 {
+    font-family: CaviarDreams-Bold;
+  }
+  .home-text144 {
+    font-family: CaviarDreams-Italic;
+    line-height: 1;
+  }
+  .home-text150 {
+    font-size: 16px;
+    font-family: CaviarDreams;
+    font-weight: 400;
+    line-height: 1.15;
+    text-transform: none;
+    text-decoration: none;
+  }
+  .home-text153 {
+    font-size: 16px;
+    font-family: CaviarDreams;
+    line-height: 1.15;
+  }
+  .home-text163 {
+    font-size: 16px;
+    font-family: CaviarDreams;
+  }
+  .home-text174 {
+    font-size: 16px;
+    font-family: CaviarDreams;
+  }
+  .home-text204 {
+    font-family: CaviarDreams;
+  }
+  .home-text205 {
+    font-family: CuteAndActiveRegular;
+    letter-spacing: 2px;
+  }
+  .home-text206 {
+    font-size: 25px;
+    font-family: CuteAndActiveRegular;
+    letter-spacing: 1px;
+  }
+  .home-text207 {
+    font-family: CaviarDreams;
+  }
+  .home-text208 {
+    font-family: CaviarDreams;
+  }
+}

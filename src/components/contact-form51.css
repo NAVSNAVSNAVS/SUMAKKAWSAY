@@ -1,0 +1,244 @@
+.contact-form51-contact1 {
+  display: flex;
+  position: relative;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact-form51-section-title {
+  gap: var(--dl-layout-space-unit);
+  align-items: center;
+}
+ 
+.contact-form51-content {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  display: flex;
+  align-self: stretch;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.contact-form51-form {
+  gap: var(--dl-layout-space-oneandhalfunits);
+  width: 100%;
+}
+ 
+.contact-form51-container1 {
+  gap: var(--dl-layout-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.contact-form51-input1 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form51-text13 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-input2 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form51-text14 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-container2 {
+  gap: var(--dl-layout-space-unit);
+  flex: 0 0 auto;
+  width: 100%;
+  display: flex;
+  align-items: flex-start;
+  flex-direction: row;
+}
+ 
+.contact-form51-input3 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form51-text15 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-input4 {
+  gap: var(--dl-layout-space-halfunit);
+  width: 50%;
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form51-text16 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-container3 {
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form51-input5 {
+  gap: var(--dl-layout-space-halfunit);
+  display: flex;
+  align-self: stretch;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form51-text17 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-container4 {
+  gap: var(--dl-layout-space-halfunit);
+  flex: 0 0 auto;
+  width: 50%;
+  display: flex;
+  align-self: flex-start;
+  align-items: flex-start;
+  flex-direction: column;
+}
+ 
+.contact-form51-text18 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-checkbox1 {
+  gap: var(--dl-layout-space-unit);
+  display: flex;
+  align-self: flex-start;
+  align-items: center;
+}
+ 
+.contact-form51-text19 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-button {
+  align-self: flex-start;
+}
+ 
+.contact-form51-text20 {
+  display: inline-block;
+}
+ 
+.contact-form51-text21 {
+  display: inline-block;
+}
+ 
+.contact-form51-text22 {
+  font-family: "CaviarDreams";
+}
+ 
+.contact-form51-text24 {
+  display: inline-block;
+  font-family: "CuteAndActiveRegular";
+  letter-spacing: 2px;
+}
+ 
+.contact-form51-text25 {
+  display: inline-block;
+  font-family: "CaviarDreams";
+}
+ 
+@media(max-width: 991px) {
+  .contact-form51-container1 {
+    gap: var(--dl-layout-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form51-input1 {
+    width: 50%;
+  }
+  .contact-form51-input2 {
+    width: 50%;
+    flex-direction: column;
+  }
+  .contact-form51-container2 {
+    gap: var(--dl-layout-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form51-input3 {
+    width: 50%;
+  }
+  .contact-form51-input4 {
+    width: 50%;
+  }
+  .contact-form51-container3 {
+    gap: var(--dl-layout-space-twounits);
+    width: 100%;
+    flex-direction: row;
+  }
+  .contact-form51-input5 {
+    gap: var(--dl-layout-space-halfunit);
+    width: 50%;
+    flex-direction: column;
+  }
+  .contact-form51-container4 {
+    width: 100%;
+  }
+  .contact-form51-checkbox1 {
+    align-self: flex-start;
+  }
+}
+ 
+@media(max-width: 767px) {
+  .contact-form51-textarea {
+    flex: 1;
+  }
+}
+ 
+@media(max-width: 479px) {
+  .contact-form51-text12 {
+    text-align: center;
+  }
+  .contact-form51-form {
+    padding: var(--dl-layout-space-unit);
+  }
+  .contact-form51-container1 {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contact-form51-input1 {
+    width: 100%;
+  }
+  .contact-form51-input2 {
+    width: 100%;
+  }
+  .contact-form51-container2 {
+    align-items: stretch;
+    flex-direction: column;
+  }
+  .contact-form51-input3 {
+    width: 100%;
+  }
+  .contact-form51-input4 {
+    width: 100%;
+  }
+}
