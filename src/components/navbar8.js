@@ -57,7 +57,7 @@ const Navbar8 = (props) => {
             >
               {props.link31 ?? (
                 <Fragment>
-                  <span className="navbar8-text13">steps2</span>
+                  <span className="navbar8-text13">Get Started</span>
                 </Fragment>
               )}
             </a>
