@@ -38,7 +38,7 @@ const Navbar8 = (props) => {
               )}
             </a>
             <a
-              href="/#gallery"
+              href={props.link3Url}
               target="_self"
               rel="noreferrer noopener"
               className="navbar8-link31 thq-body-small thq-link"
@@ -50,7 +50,7 @@ const Navbar8 = (props) => {
               )}
             </a>
             <a
-              href="/#steps2"
+              href={props.link3Url1}
               target="_self"
               rel="noreferrer noopener"
               className="navbar8-link32 thq-body-small thq-link"
