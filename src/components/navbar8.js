@@ -50,7 +50,7 @@ const Navbar8 = (props) => {
               )}
             </a>
             <a
-              href="/#get-started"
+              href="/#steps2"
               target="_self"
               rel="noreferrer noopener"
               className="navbar8-link32 thq-body-small thq-link"
@@ -281,7 +281,7 @@ const Navbar8 = (props) => {
             </nav>
             <div className="navbar8-buttons2">
               <button className="thq-button-filled">
-                <a href="/#get-started" target="_self" rel="noreferrer noopener">
+                <a href="/#steps2" target="_self" rel="noreferrer noopener">
 		 <span>
                   {props.action1 ?? (
                     <Fragment>
