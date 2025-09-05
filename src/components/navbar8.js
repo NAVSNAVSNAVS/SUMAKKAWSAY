@@ -39,7 +39,7 @@ const Navbar8 = (props) => {
             </a>
             <a
               href={props.link3Url}
-              target="_blank"
+              target="_self"
               rel="noreferrer noopener"
               className="navbar8-link31 thq-body-small thq-link"
             >
@@ -51,7 +51,7 @@ const Navbar8 = (props) => {
             </a>
             <a
               href={props.link3Url1}
-              target="_blank"
+              target="_self"
               rel="noreferrer noopener"
               className="navbar8-link32 thq-body-small thq-link"
             >
@@ -64,7 +64,7 @@ const Navbar8 = (props) => {
           </nav>
           <div className="navbar8-buttons1">
             <button className="navbar8-action11 thq-button-filled thq-button-animated">
-              <a href={props.textUrl} target="_blank" rel="noreferrer noopener">
+              <a href={props.textUrl} target="_self" rel="noreferrer noopener">
                 {props.text ?? (
                   <Fragment>
                     <span className="navbar8-text24">Start your order</span>
@@ -75,7 +75,7 @@ const Navbar8 = (props) => {
             <button className="navbar8-action21 thq-button-animated thq-button-outline">
               <a
                 href={props.textUrl1}
-                target="_blank"
+                target="_self"
                 rel="noreferrer noopener"
               >
                 {props.text1 ?? (
