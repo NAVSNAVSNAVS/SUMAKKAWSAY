@@ -57,7 +57,7 @@ const Navbar8 = (props) => {
             >
               {props.link31 ?? (
                 <Fragment>
-                  <span className="navbar8-text13">Get Started</span>
+                  <span className="navbar8-text13">steps2</span>
                 </Fragment>
               )}
             </a>
@@ -465,7 +465,7 @@ Navbar8.defaultProps = {
   text1: undefined,
   page3Description: undefined,
   link2Url: '#our-story',
-  link3Url1: '#get-started',
+  link3Url1: '#steps2',
   link1: undefined,
   linkUrlPage1: '#home',
   page4ImageSrc:
