@@ -125,7 +125,7 @@ const Navbar8 = (props) => {
                 )}
               </a>
               <a
-                href={`/#gallery}
+                href={`/#gallery`}
                 className="navbar8-link33 thq-body-small thq-link"
               >
                 {props.link3 ?? (
