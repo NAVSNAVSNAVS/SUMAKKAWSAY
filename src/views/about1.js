@@ -15,8 +15,8 @@ const About1 = (props) => {
   return (
     <div className="about1-container1">
       <Helmet>
-        <title>About1 - Academic Stormy Fly</title>
-        <meta property="og:title" content="About1 - Academic Stormy Fly" />
+        <title>About1 - Sumak Kawsay</title>
+        <meta property="og:title" content="Sumak Kawsay" />
       </Helmet>
       <Navbar8
         text={
