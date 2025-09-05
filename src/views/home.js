@@ -21,8 +21,8 @@ const Home = (props) => {
   return (
     <div className="home-container">
       <Helmet>
-        <title>Academic Stormy Fly</title>
-        <meta property="og:title" content="Academic Stormy Fly" />
+        <title>Sumak Kawsay</title>
+        <meta property="og:title" content="Sumak Kawsay" />
       </Helmet>
       <Navbar8
         text={
