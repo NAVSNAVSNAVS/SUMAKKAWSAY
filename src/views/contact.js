@@ -11,8 +11,8 @@ const Contact = (props) => {
   return (
     <div className="contact-container">
       <Helmet>
-        <title>Contact - Academic Stormy Fly</title>
-        <meta property="og:title" content="Contact - Academic Stormy Fly" />
+        <title>Contact - Sumak Kawsay</title>
+        <meta property="og:title" content="Sumak Kawsay" />
       </Helmet>
       <Navbar8
         text={
