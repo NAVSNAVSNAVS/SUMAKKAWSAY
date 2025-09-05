@@ -483,7 +483,7 @@ Navbar8.defaultProps = {
   link3Url: '#gallery',
   linkUrlPage3: '#services',
   linkUrlPage4: '#contact',
-  textUrl: '#get-started',
+  textUrl: '/#steps2',
   page4ImageAlt: 'Contact Image',
   link2: undefined,
   logoAlt: 'Digital Portrait Place Cards Logo',
