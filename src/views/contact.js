@@ -166,7 +166,7 @@ const Contact = (props) => {
         }
         textUrl="/"
         textUrl1="/about1"
-        textUrl2="/"
+        textUrl2="/#Hero17"
         textUrl4="/contact"
         rootClassName="footer4root-class-name2"
       ></Footer4>
