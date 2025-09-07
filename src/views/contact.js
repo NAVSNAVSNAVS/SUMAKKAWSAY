@@ -82,8 +82,8 @@ const Contact = (props) => {
         }
         link1Url="/"
         link2Url="/about1"
-        link3Url="#Hero17"
-        link3Url1="#Steps2"
+        link3Url="/#Hero17"
+        link3Url1="/#Steps2"
         page1Description={
           <Fragment>
             <span className="contact-text23">
